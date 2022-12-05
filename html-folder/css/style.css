@@ -1,0 +1,57 @@
+
+.home-slider {
+    padding: 0;
+}
+
+.home-slider h5{
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+.form-signin {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.home-slider p{
+    font-size: 25px;
+}
+
+.post_detail-slider {
+    padding: 0;
+}
+
+.post_detail-slider h5{
+    font-size: 50px;
+}
+
+.post_detail-slider p{
+    font-size: 25px;
+}
+
+.carousel-caption {
+    bottom: 100px;
+}
+
+.carousel-item {
+    height: 30rem;
+}
+
+body {
+    margin-bottom: 80px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #343a40
+}
